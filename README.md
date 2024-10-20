@@ -14,7 +14,7 @@ The **Random Password Generator** is a simple and effective Chrome extension tha
 
 ### Method 1: Load Unpacked Extension
 
-1. Download the extension ZIP file from the [releases](https://github.com/yourusername/your-repo/releases) section.
+1. Download the extension ZIP file.
 2. Extract the contents of the ZIP file.
 3. Open Chrome and go to `chrome://extensions/`.
 4. Enable **Developer mode** by toggling the switch in the top right corner.
