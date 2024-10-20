@@ -29,13 +29,7 @@ The **Random Password Generator** is a simple and effective Chrome extension tha
 4. Use the **Copy That!** button to copy the generated password to your clipboard.
 
 ## Screenshots
-<img src="https://github.com/user-attachments/assets/24403a2a-7e66-4457-8b46-19aacb49ed96" alt="Screenshot" width="500" />
-
-
-## Contributing
-
-Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request.
-
+<img src="https://github.com/user-attachments/assets/24403a2a-7e66-4457-8b46-19aacb49ed96" alt="Screenshot" width="300" />
 
 ## Author
 
