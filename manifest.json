@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Random Password Generator",
+  "description": "Generate strong random passwords.",
+  "author": "Manish Kumar",
+  "version": "1.0",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "pIcon16.png",
+      "48": "pIcon32.png"
+    }
+  },
+  "permissions": ["storage"]
+}
