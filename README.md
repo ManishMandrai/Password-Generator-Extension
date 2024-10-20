@@ -1,8 +1,5 @@
 # Random Password Generator Chrome Extension
 
-![Random Password Generator Logo]
-![favicon-16x16](https://github.com/user-attachments/assets/b16cf2ad-a1f2-4d09-827d-656e18e4283c)
-
 ## Overview
 
 The **Random Password Generator** is a simple and effective Chrome extension that helps you generate strong, random passwords with just a click. Customize the length and character types to suit your needs!
@@ -32,8 +29,8 @@ The **Random Password Generator** is a simple and effective Chrome extension tha
 4. Use the **Copy That!** button to copy the generated password to your clipboard.
 
 ## Screenshots
+<img src="https://github.com/user-attachments/assets/24403a2a-7e66-4457-8b46-19aacb49ed96" alt="Screenshot" width="500" />
 
-![Screenshot 2024-10-20 214047](https://github.com/user-attachments/assets/24403a2a-7e66-4457-8b46-19aacb49ed96)
 
 ## Contributing
 
